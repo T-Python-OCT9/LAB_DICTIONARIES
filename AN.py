@@ -20,3 +20,4 @@ for i in range(list_length):
         list[zero], list[i] = list[i], list[zero]
         zero += 1
 print(list)
+
